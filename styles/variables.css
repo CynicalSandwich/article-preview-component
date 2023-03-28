@@ -1,0 +1,18 @@
+:root {
+    /* Colors */
+    --gray-blue-dark: hsl(233, 26%, 35%);
+    --gray-blue-vdark: hsl(220, 18%, 35%);
+    --dark-blue: hsl(214,17%,51%);
+    --gray-blue: hsl(212,23%,69%);
+    --gray-blue-light: hsl(210,46%,95%);
+    --white: hsl(0,0%,100%);
+
+    /* Box Shadows */
+    --box-shadow: 0px 10px 10px 0px hsla(220,18%,60%,20%);
+
+    /* Fonts */
+    --font-size-reg: 13px;
+    --font-family: 'Manrope', sans-serif;
+    --font-weight-reg: 500;
+    --font-weight-bold: 700;
+}

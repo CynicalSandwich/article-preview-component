@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/CynicalSandwich/article-preview-component)
-- Live Site URL: [Add live site URL here](https://cynicalsandwich.github.io/article-preview-component/)
+- Solution URL: [https://github.com/CynicalSandwich/article-preview-component](https://github.com/CynicalSandwich/article-preview-component)
+- Live Site URL: [https://cynicalsandwich.github.io/article-preview-component](https://cynicalsandwich.github.io/article-preview-component)
 
 ### Built with
 
@@ -39,5 +39,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://github.com/CynicalSandwich)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CynicalSandwich)
+- Website - [Pete Smith](https://github.com/CynicalSandwich)
+- Frontend Mentor - [@CynicalSandwich](https://www.frontendmentor.io/profile/CynicalSandwich)
